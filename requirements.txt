@@ -4,4 +4,11 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-jupyter
+tensorflow
+keras
+opencv-python
+transformers
+langchain
+faiss-cpu
+fastapi
+streamlit
